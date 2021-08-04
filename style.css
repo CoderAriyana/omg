@@ -1,0 +1,9 @@
+body{
+background-size: cover;
+background-position: center; 
+}
+
+canvas{
+    box-shadow: 10px, 20px, 30px, rgb(blue, green, blue);
+    border-radius: 70;
+}
